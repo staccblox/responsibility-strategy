@@ -1,5 +1,2 @@
-my $name = 'John Doe';
+my $name = "helps a company integrate considerations into its decision-making";
 say $name;
-
-my $age = 99;
-say $age;
